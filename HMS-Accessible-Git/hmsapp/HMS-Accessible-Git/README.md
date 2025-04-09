@@ -1,23 +1,25 @@
-# HMS Accessible Web App
+# HMS – Hotel Management System (Accessible Web App)
 
-A full-featured Hospital Management System with accessibility enhancements, designed for hospitals and clinics.
+A web-based Hotel Management System focused on user accessibility, streamlined room booking, and admin control, built with Java Spring Boot.
 
-## Features
-- Patient & Doctor Records
-- Appointment Scheduling
-- Medicine Tracking
-- Accessibility Focus (UI/UX)
-- Built using Spring Boot + MySQL
-- Deployed-ready with AWS S3 and JWT auth
+## 🚀 Features
+- 🔐 Secure login for Admin and Customers
+- 🏨 Manage hotel rooms and bookings
+- 🧑‍🦽 Accessible UI for better usability
+- 📊 Admin dashboard with controls
+- 📄 Dynamic room and booking listings
 
-## Tech Stack
-- Java, Spring Boot, Hibernate
-- MySQL, JPA
-- HTML, CSS, JS
-- React.js (Optional UI layer)
-- Firebase, AWS (Optional Integrations)
+## 🛠️ Tech Stack
+- Java 17
+- Spring Boot
+- Thymeleaf
+- Maven
+- MySQL
+- HTML/CSS/JS
 
-## Author
-Vinayaka S Kudva  
-📧 vinayakaskudva@gmail.com  
-🔗 [LinkedIn](https://linkedin.com/in/vinayaka-s-kudva-8478a9335)
+## 📦 Getting Started
+
+```bash
+git clone https://github.com/Vin2025-17/hms-accessible-web-app.git
+cd hms-accessible-web-app
+./mvnw spring-boot:run
