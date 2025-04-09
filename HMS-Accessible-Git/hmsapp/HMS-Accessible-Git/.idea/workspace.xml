@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0f71d346-5a0c-486c-8ad2-f9bf8d4852a4" name="Changes" comment="updated with few changes in the code section" />
+    <list default="true" id="0f71d346-5a0c-486c-8ad2-f9bf8d4852a4" name="Changes" comment="Backend changes are successfully added" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -12,6 +12,7 @@
   </component>
   <component name="ChangesViewManager">
     <option name="groupingKeys">
+      <option value="directory" />
       <option value="module" />
     </option>
   </component>
@@ -46,12 +47,33 @@
     &quot;assignee&quot;: &quot;yathin201020&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/Vin2025-17/hms-accessible-web-app.git&quot;,
-    &quot;accountId&quot;: &quot;ce0a2117-273c-4add-a44a-bc84da57fed3&quot;
+  <component name="GitHubPullRequestState"><![CDATA[{
+  "prStates": [
+    {
+      "id": {
+        "id": "PR_kwDOOV4EHs6R50Wr",
+        "number": 1
+      },
+      "lastSeen": 1744186646413
+    }
+  ]
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Vin2025-17/hms-accessible-web-app.git",
+    "accountId": "ce0a2117-273c-4add-a44a-bc84da57fed3"
+  },
+  "recentNewPullRequestHead": {
+    "server": {
+      "useHttp": false,
+      "host": "github.com",
+      "port": null,
+      "suffix": null
+    },
+    "owner": "Vin2025-17",
+    "repository": "hms-accessible-web-app"
   }
-}</component>
+}]]></component>
   <component name="JpbToolWindowState">
     <option name="isToolWindowVisible" value="false" />
   </component>
@@ -77,7 +99,7 @@
     "Application.HmsappApplication.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "update",
+    "git-widget-placeholder": "#1 on update",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/vinay/OneDrive/Desktop/hms-accessible-web-app/HMS-Accessible-Git/hmsapp/HMS-Accessible-Git/pom.xml",
@@ -183,10 +205,39 @@
       <option name="project" value="LOCAL" />
       <updated>1744186444225</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Initial commit: Added full hotel management system codebase">
+      <option name="closed" value="true" />
+      <created>1744186563558</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1744186563558</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Backend changes are successfully added">
+      <option name="closed" value="true" />
+      <created>1744186777491</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1744186777491</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Backend changes are successfully added">
+      <option name="closed" value="true" />
+      <created>1744186930663</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1744186930663</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="aacc3c51-5d2b-4973-93ae-a7be7be72d2a" value="TOOL_WINDOW" />
+      </map>
+    </option>
     <option name="TAB_STATES">
       <map>
         <entry key="MAIN">
@@ -200,6 +251,30 @@
             </State>
           </value>
         </entry>
+        <entry key="aacc3c51-5d2b-4973-93ae-a7be7be72d2a">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="range">
+                    <value>
+                      <list>
+                        <option value="origin/main..origin/update" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$PROJECT_DIR$/../../.." />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
       </map>
     </option>
   </component>
@@ -208,7 +283,9 @@
     <MESSAGE value="Initial commit: HMS web app with accessibility features" />
     <MESSAGE value="Initial commit: Added full hospital management system codebase" />
     <MESSAGE value="updated with few changes in the code section" />
-    <option name="LAST_COMMIT_MESSAGE" value="updated with few changes in the code section" />
+    <MESSAGE value="Initial commit: Added full hotel management system codebase" />
+    <MESSAGE value="Backend changes are successfully added" />
+    <option name="LAST_COMMIT_MESSAGE" value="Backend changes are successfully added" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
