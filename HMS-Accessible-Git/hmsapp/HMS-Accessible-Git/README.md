@@ -83,7 +83,8 @@ Model: Java classes mapped to DB tables
  Fully responsive accessible frontend
 
 👨‍💻 Author
+
 Vinayaka S Kudva
-🔗 LinkedIn
+
 
 
